@@ -20,7 +20,7 @@
     "@quasar/app": "3.3.3",
     "@vue/eslint-config-prettier": "9.0.0",
     "@babel/eslint-parser": "7.25.1",
-    "eslint": "9.8.0",
+    "eslint": "9.11.0",
     "eslint-loader": "4.0.2",
     "eslint-plugin-vue": "9.27.0"
   },
